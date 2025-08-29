@@ -1,12 +1,25 @@
+<div style="text-align: center;">
+  <img src="./assets/logos-off-gsoc.webp" alt="Logos OFF & GSoC" width="540">
+</div>
+
 # GSoC 2025 OpenFoodFacts
 
 ## Project description
 
-- **Contributor:** Estrella Paoli
+| Contributor | Estrella Paoli                                                                                                                                                 |
+| -- |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project | [Implementation of a new structured nutrition schema](https://summerofcode.withgoogle.com/programs/2025/projects/mzpDaWXd)                                     |
+| Organisation | [Open Food Facts](https://world.openfoodfacts.org/)                                                                                                            |
+| Repository | [Open Food Facts server](https://github.com/openfoodfacts/openfoodfacts-server)                                                                                |
+| Mentors | [Louis Bastarache](https://github.com/LouisBastarache), [Stéphane Gigandet](https://github.com/stephanegigandet), [Charles Nepote](https://github.com/CharlesNepote) |
+| Github | [@Vic142](https://github.com/Vic142)                                                                                                           |
+| LinkedIn | [Estrella Paoli](https://www.linkedin.com/in/estrella-paoli)                                                                                                   |
+
+- **Contributor:** [Estrella Paoli](https://github.com/Vic142)
 - **Project:** [Implementation of a new structured nutrition schema](https://summerofcode.withgoogle.com/programs/2025/projects/mzpDaWXd)
 - **Organisation:** [Open Food Facts](https://world.openfoodfacts.org/)
 - **Repository:** [Open Food Facts server](https://github.com/openfoodfacts/openfoodfacts-server)
-- **Mentors:** Louis Bastarache, Stéphane Gigandet, Charles Nepote
+- **Mentors:** [Louis Bastarache](https://github.com/LouisBastarache), [Stéphane Gigandet](https://github.com/stephanegigandet), [Charles Nepote](https://github.com/CharlesNepote)
 
 
 The Open Food Facts database stores data on products all around the world. 
@@ -17,7 +30,10 @@ At the beginning of the GSoC, it was then determined that it would be better to 
 until the new nutrition schema was integrated in the Open Food Facts database.
 
 A new nutrition schema was designed to solve current problems and difficulties it caused. 
-The main problem was that it lacked structure, which could lead to confusion for users 
+The schema was designed by consulting the Open Food Facts community 
+and the discussions and the selected schema can be found in the 
+[2025 - API - Nutrition Facts Schema and API](https://docs.google.com/document/d/19ZRrlWJraJm61E6U7AwxQ1uubPDvmSuNfl9F1oLC0Tg/) document.
+The main problem with the old nutrition schema was that it lacked structure, which could lead to confusion for users 
 and creates unnecessary challenges during the development of some new features or when integrating external data sources. 
 Moreover, it could not allow the storage of data from several sources which would be very useful to use data 
 from a particular source for example.
@@ -93,14 +109,16 @@ This GSoC project was a really great opportunity for me to master a new programm
 - I have also invested a good amount of time during the project start for developing understanding on the architecture 
 of the Open Food Facts database and code of the repository. Thanks to the guidance of my mentors I was able to familiarize myself faster 
 and more easily before starting actively working on the project.
+- The fact that the new nutrition schema still had unknown parameters and evolved during and after its implementation was another challenge, 
+which taught me to learn how to manage evolving goals.
 - Since the heart of this project consists of changing the whole nutrition schema, I learned a lot about databases structures, 
 needs, and about the nuances of each solution, which was very interesting.
 - Before this project, I had never used OpenAPI for documentation. This was a great chance for me to learn to use it.
 - Finally, I also really enjoyed developing my communication skills by engaging with the community on Slack.
 
 ## Acknowledgements
-I would like to thank my mentors Louis Bastarache, Stéphane Gigandet and Charles Nepote for their invaluable guidance and support throughout the summer.
-I would also like to thank Alex Garel for his help and support throughout the project.
+I would like to thank my mentors [Louis Bastarache](https://github.com/LouisBastarache), [Stéphane Gigandet](https://github.com/stephanegigandet) and [Charles Nepote](https://github.com/CharlesNepote) for their invaluable guidance and support throughout the summer.
+I would also like to thank [Alex Garel](https://github.com/alexgarel) for his help and support throughout the project.
 I would like to thank Open Food Facts and the Google Summer of Code program for the opportunity of doing this project.
 
 Contributing to Open Food Facts has been an amazing experience. 
