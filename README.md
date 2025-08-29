@@ -3,7 +3,7 @@
 ## Project description
 
 - **Contributor:** Estrella Paoli
-- **Project:** Implementation of a new structured nutrition schema
+- **Project:** [Implementation of a new structured nutrition schema](https://summerofcode.withgoogle.com/programs/2025/projects/mzpDaWXd)
 - **Organisation:** [Open Food Facts](https://world.openfoodfacts.org/)
 - **Repository:** [Open Food Facts server](https://github.com/openfoodfacts/openfoodfacts-server)
 - **Mentors:** Louis Bastarache, Stéphane Gigandet, Charles Nepote
