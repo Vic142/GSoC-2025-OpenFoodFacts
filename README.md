@@ -6,21 +6,14 @@
 
 ## Project description
 
-| Contributor | Estrella Paoli                                                                                                                                                 |
-| -- |----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Project | [Implementation of a new structured nutrition schema](https://summerofcode.withgoogle.com/programs/2025/projects/mzpDaWXd)                                     |
-| Organisation | [Open Food Facts](https://world.openfoodfacts.org/)                                                                                                            |
-| Repository | [Open Food Facts server](https://github.com/openfoodfacts/openfoodfacts-server)                                                                                |
-| Mentors | [Louis Bastarache](https://github.com/LouisBastarache), [Stéphane Gigandet](https://github.com/stephanegigandet), [Charles Nepote](https://github.com/CharlesNepote) |
-| Github | [@Vic142](https://github.com/Vic142)                                                                                                           |
-| LinkedIn | [Estrella Paoli](https://www.linkedin.com/in/estrella-paoli)                                                                                                   |
-
-- **Contributor:** [Estrella Paoli](https://github.com/Vic142)
-- **Project:** [Implementation of a new structured nutrition schema](https://summerofcode.withgoogle.com/programs/2025/projects/mzpDaWXd)
-- **Organisation:** [Open Food Facts](https://world.openfoodfacts.org/)
-- **Repository:** [Open Food Facts server](https://github.com/openfoodfacts/openfoodfacts-server)
-- **Mentors:** [Louis Bastarache](https://github.com/LouisBastarache), [Stéphane Gigandet](https://github.com/stephanegigandet), [Charles Nepote](https://github.com/CharlesNepote)
-
+| Contributor  | Estrella Paoli                                                                                                                                                       |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project      | [Implementation of a new structured nutrition schema](https://summerofcode.withgoogle.com/programs/2025/projects/mzpDaWXd)                                           |
+| Organisation | [Open Food Facts](https://world.openfoodfacts.org/)                                                                                                                  |
+| Repository   | [Open Food Facts server](https://github.com/openfoodfacts/openfoodfacts-server)                                                                                      |
+| Mentors      | [Louis Bastarache](https://github.com/LouisBastarache), [Stéphane Gigandet](https://github.com/stephanegigandet), [Charles Nepote](https://github.com/CharlesNepote) |
+| Github       | [@Vic142](https://github.com/Vic142)                                                                                                                                 |
+| LinkedIn     | [Estrella Paoli](https://www.linkedin.com/in/estrella-paoli)                                                                                                         |
 
 The Open Food Facts database stores data on products all around the world. 
 Even though the database has a lot of data in Europe, it could be completed in North America 
