@@ -32,7 +32,8 @@ until the new nutrition schema was integrated in the Open Food Facts database.
 A new nutrition schema was designed to solve current problems and difficulties it caused. 
 The schema was designed by consulting the Open Food Facts community 
 and the discussions and the selected schema can be found in the 
-[2025 - API - Nutrition Facts Schema and API](https://docs.google.com/document/d/19ZRrlWJraJm61E6U7AwxQ1uubPDvmSuNfl9F1oLC0Tg/) document.
+[2025 - API - Nutrition Facts Schema and API](https://docs.google.com/document/d/19ZRrlWJraJm61E6U7AwxQ1uubPDvmSuNfl9F1oLC0Tg/) document. 
+The designed schema was revised and evolved throughout this project.
 The main problem with the old nutrition schema was that it lacked structure, which could lead to confusion for users 
 and creates unnecessary challenges during the development of some new features or when integrating external data sources. 
 Moreover, it could not allow the storage of data from several sources which would be very useful to use data 
