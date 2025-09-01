@@ -80,9 +80,9 @@ Then each update of features would be done in a branch created from this base br
 
 ### All pull requests
 
-- [Merged pull requests](https://github.com/openfoodfacts/openfoodfacts-server/pulls?q=+is%3Apr+author%3AVic142+is%3Amerged)
-- [Open pull requests](https://github.com/openfoodfacts/openfoodfacts-server/pulls/Vic142)
-- [All pull requests](https://github.com/openfoodfacts/openfoodfacts-server/pulls?q=is%3Apr+author%3AVic142+)
+- [Merged pull requests during GSoC](https://github.com/openfoodfacts/openfoodfacts-server/pulls?q=+is%3Apr+author%3AVic142+is%3Amerged+created%3A%3C%3D2025-09-01+)
+- [Open pull requests during GSoC](https://github.com/openfoodfacts/openfoodfacts-server/pulls?q=is%3Aopen+is%3Apr+author%3AVic142+created%3A%3C%3D2025-09-01)
+- [All pull requests during GSoC](https://github.com/openfoodfacts/openfoodfacts-server/pulls?q=is%3Apr+author%3AVic142+created%3A%3C%3D2025-09-01+)
 
 
 ## Next steps for future work
